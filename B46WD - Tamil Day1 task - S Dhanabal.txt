@@ -1,0 +1,20 @@
+1. Write a blog on diffrent http1.1 vs http2?
+
+  HTTP - Hyper text transfer protocol
+
+A. HTTP1.1
+   http1.1 was publisded in january 1997.
+   http1.1 loads resources one after the other. So if a sources cannot be loaded, it blocks all resources.
+   
+B.HTTp2
+   http2 was specific published in may 2015.
+   http2 is able to use a single TCP conection to send multiple streams.So if resources cannot be loads any one resources don't stop. 
+   
+   
+   
+2. write a blog objects and its internal reprecentation in javascript.
+
+Objects in JavaScript. it’s most important data-type and forms the building blocks for modern JavaScript. These objects are quite
+different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these 
+primitive data-types all store a single value each.
+
